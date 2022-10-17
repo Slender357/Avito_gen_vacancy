@@ -1,0 +1,22 @@
+spreadsheet_id: ***
+credentials_file: ./creds.json
+sheet_name_m_mo: ***
+sheet_name_reg: ***
+sheet_name_loction_m: ***
+sheet_name_loction_mo: ***
+sheet_name_loction_reg: ***
+sheet_name_title: Title
+sheet_name_salary: salary
+sheet_name_image_id:
+  L: L_ImageID
+  S: S_ImageID
+sheet_name_vacancy: ***
+sheet_name_vacancy_mo: ***
+prefix_arh: ***
+client_id: ***
+client_secret: ***
+sity_number: "***"
+region_number: "***"
+sity_name: ***
+region_name: ***
+allow_messages: True
